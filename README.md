@@ -10,6 +10,10 @@ The improved model achieves **98.92% accuracy** on the test dataset.
 
 ---
 
+## 🚀 Live Demo
+
+[Try the Spam Mail Detector](https://spam-mail-prediction-o4z2fdkpev5nh6fel3ky7t.streamlit.app/)
+
 ## 📌 Project Overview
 
 Spam emails are unwanted messages that may contain advertisements, scams, fraudulent links, or other potentially harmful content.
